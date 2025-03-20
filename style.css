@@ -1,0 +1,22 @@
+.header-wrapper {
+    width: 30%;
+    float: left;
+    position: fixed;
+}
+
+.content-wrapper {
+    width: 65%;
+    float: right;
+}
+
+/* social icons */
+.linkedin:hover, .telegram:hover, .substack:hover, .twitter:hover {
+    opacity: 0.5;
+}
+
+/* headshot
+.headshot {
+
+}
+*/
+
