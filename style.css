@@ -14,9 +14,11 @@
     opacity: 0.5;
 }
 
-/* headshot
+/* headshot */
 .headshot {
-
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
 }
-*/
+
 
