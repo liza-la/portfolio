@@ -7,6 +7,8 @@
 .content-wrapper {
     width: 65%;
     float: right;
+    display: flex;
+    flex-direction: column;
 }
 
 /* social icons */
@@ -15,6 +17,9 @@
 }
 
 /* headshot */
+.headshot-wrapper{
+    max-width: 400px;
+}
 .headshot {
     height: 100%;
     width: 100%;
